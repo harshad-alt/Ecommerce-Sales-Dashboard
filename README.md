@@ -1,1 +1,2 @@
 # Ecommerce-Sales-Power
+The Ecommerce Sales Power BI Dashboard is a data visualization project designed to provide valuable insights and analytics for ecommerce businesses to monitor and optimize their sales performance. By leveraging the capabilities of Power BI, this project aims to provide actionable insights, improve decision-making, and ultimately drive growth and profitability in the highly competitive ecommerce landscape.
